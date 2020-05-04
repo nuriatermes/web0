@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         const contenido = document.getElementById("contenido");
         contenido.innerHTML = `
             <ul>
-                <li>Nombre: Nuria</li>
+                <li>Nombre:Nuria</li>
                 <li>Email:nuriatermes99@gmail.com</li>
             </ul>
         `
